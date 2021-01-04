@@ -1,4 +1,4 @@
-Prediction of Housing Prices inn Califonia
+Prediction of Housing Prices in Califonia
 - EDA
 - Feature Engineering
 - Building Models
